@@ -24,4 +24,12 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)FirstNameAction:(id)sender {
+}
+
+- (IBAction)Address:(id)sender {
+}
+
+- (IBAction)ButtonPress:(id)sender {
+}
 @end
